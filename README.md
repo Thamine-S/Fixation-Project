@@ -1,2 +1,2 @@
 # Projeto-de-fixa-o
-Neste projeto, apliquei as ferramentas e tecnologias que utilizo na minha rotina como estagiária de desenvolvimento, com o objetivo de reforçar meu aprendizado e aprimorar a compreensão de conceitos e metodologias.
+Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em ASP.NET Core, por meio da implementação de uma Minimal API que se comunica com um banco de dados SQL Server utilizando stored procedures. Os dados são serializados em JSON no backend e consumidos por um frontend simples em HTML com Bootstrap, reforçando práticas de integração entre camadas e manipulação de dados em aplicações web.
